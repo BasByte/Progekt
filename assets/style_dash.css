@@ -14,8 +14,10 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 0 2rem;
     position: sticky;
-    top: 0;
-    z-index: 1000;
+    top: 10px;
+    width: 80%;
+    align-items: center;
+    margin: auto
 }
 
 nav {
